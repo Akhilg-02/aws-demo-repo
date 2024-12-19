@@ -1,3 +1,2 @@
 I am inside the demo file task.txt.
-Cloned the new data from github repository.
 Added new line in task.txt file
