@@ -1,2 +1,0 @@
-I am inside the demo file task.txt.
-Added new line in task.txt file
